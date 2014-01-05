@@ -1,7 +1,7 @@
 mvhdl
 =====
 mVHDL is a hardware description language, which is based on VHDL.
-mVHDL supports VHDL syntax and some extetensions.
+mVHDL supports both of VHDL syntax and mVHDL syntax.
 The goal of mVHDL are the followings;
  * to support modern signal/variable definition styles
  * to support a special syntax for state machine
